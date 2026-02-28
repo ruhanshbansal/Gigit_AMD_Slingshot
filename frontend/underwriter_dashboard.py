@@ -287,7 +287,7 @@ with st.sidebar:
     selected_id = st.selectbox(
         "Worker ID",
         options=worker_ids,
-        index=41,  # default to GIG_042
+        index=0,  # default to GIG_001
         help="Choose a gig worker to analyse.",
         label_visibility="collapsed",
     )
