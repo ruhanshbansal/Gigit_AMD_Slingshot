@@ -147,6 +147,5 @@ session = ort.InferenceSession(
 
 ---
 
-## License
 
 Built for the AMD Slingshot 2026 Hackathon.
